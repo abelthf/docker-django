@@ -3,7 +3,7 @@
 #
 
 # Base image.
-FROM python:2.7
+FROM python:3.5.1
 
 # Create code folder.
 RUN mkdir /code
